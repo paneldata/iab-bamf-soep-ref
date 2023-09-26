@@ -1,6 +1,6 @@
 ---
-name: iab-soep-mig
-label: IAB-SOEP Migration Sample
+name: i-b-s-ref
+label: IAB-BAMF-SOEP Survey of Refugees
 config:
     variables:
         label-table: True
