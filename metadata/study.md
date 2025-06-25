@@ -14,15 +14,26 @@ The Institute for Employment Research (IAB), the Socio-Economic Panel (SOEP) at 
 
 All samples from the IAB-BAMF-SOEP Survey of Refugees are included in the regular [SOEP](https://paneldata.org/soep-core/) data release.
 
+## Citation
+
+-   **Title:** IAB-BAMF-SOEP Survey of Refugees
+
+-   **Principal Investigators:** Herbert Brücker, Yuliya Kosyakova, Nina Rother, Sabine Zinn
+
+Publications using these data must cite the DOI (<doi:10.5684/soep.iab-bamf-soep-mig.2023>, or the DOI of another used edition) and also cite the following reference article:
+
+-   Brücker, H., Kosyakova, Y., Rother, N., Zinn, S., Liebau, E., Gider, W., Schwanhäuser, S., & Siegert, M. (accepted) Exploring Integration and Migration Dynamics: The Research Potentials of a Large-Scale Longitudinal Household Study of Refugees in Germany. European Sociological Review. <https://doi.org/10.1093/esr/jcaf032>.\
+    A preprint of the paper is available here: <https://doi.org/10.17605/OSF.IO/CQ2KZ>.
+
+If you do not exclude the cases of the IAB-SOEP Migration Sample in your analysis, then please also cite the following reference:
+
+-   Herbert Brücker, Martin Kroh, Simone Bartsch, Jan Goebel, Simon Kühne, Elisabeth Liebau, Parvati Trübswetter, Ingrid Tucci & Jürgen Schupp (2014): The new IAB-SOEP Migration Sample: an introduction into the methodology and the contents. [SOEP Survey Paper 216](https://www.diw.de/documents/publikationen/73/diw_01.c.570700.de/diw_ssp0216.pdf), Series C. Berlin, Nürnberg: DIW Berlin.
+
 ## Subsamples
 
 The random sample of refugees was drawn from the Central Register of Foreign Nationals (AZR) (for further details, see: Studiendesign der IAB-BAMF-SOEP Befragung Geflüchteter ([PDF](https://www.diw.de/documents/publikationen/73/diw_01.c.571019.de/diw_ssp0365.pdf), only in German)
 
-Sample M3 was added in 2016. It includes households of refugees who arrived to Germany between January 2013 and January 2016.
-Sample M4 was added in 2016. It is similar to M3 but with a special focus on families.
-Sample M5 was added in 2017. It includes households of refugees who arrived to Germany between January 2013 and December 2016.
-Sample M6 was added in 2020. It includes households of refugees who arrived to Germany between January 2013 and June 2019.
-Sample M9 was added in 2023. It includes households of refugees who arrived to Germany between January 2017 and August 2022 as well as two subsamples of refugees from Ukraine who arrived to Germany between February 2022 and August 2022. 
+Sample M3 was added in 2016. It includes households of refugees who arrived to Germany between January 2013 and January 2016. Sample M4 was added in 2016. It is similar to M3 but with a special focus on families. Sample M5 was added in 2017. It includes households of refugees who arrived to Germany between January 2013 and December 2016. Sample M6 was added in 2020. It includes households of refugees who arrived to Germany between January 2013 and June 2019. Sample M9 was added in 2023. It includes households of refugees who arrived to Germany between January 2017 and August 2022 as well as two subsamples of refugees from Ukraine who arrived to Germany between February 2022 and August 2022.
 
 The first wave (2016) of the IAB-BAMF-Survey covers about 3,500 households. About 4,400 households participated in 2024.
 
@@ -38,14 +49,12 @@ The survey data are integrated into the SOEP data release. This makes it possibl
 
 Via the SOEP Research Data Center: The dataset also provides supplementary samples to the SOEP-Core study and is integrated into every version of the SOEP data starting with v33.1 as Sample M3-M5 (identical questionnaires, with additional questions about the respondent’s refugee and migration situation). All SOEP users with a valid contract for data use either have already received the data with SOEP v33.1 or can order the IAB-BAMF-SOEP Survey of Refugees data separately in the usual ways (SOEPhotline). Data users receive a personal safe download link, allowing them to download the dataset free of charge. [Find out](https://www.diw.de/en/diw_01.c.601584.en/data_access.html) how you can order the data.
 
-Via  the FDZ IAB: [Find out](https://fdz.iab.de/datenzugang/) how you can order the data.
+Via the FDZ IAB: [Find out](https://fdz.iab.de/datenzugang/) how you can order the data.
 
 ## Record Linkage
 
 Please note that data from the IAB-BAMF-SOEP Survey of Refugees can be linked with administrative labor market and income data if the respondents in question provided explicit consent to record linkage. But since these linked datasets contains weakly anonymized social data, they can only be used on-site at the Research Data Center of the German Federal Employment Agency at the IAB (FDZ IAB). Researchers can use FDZ IAB data on a guest visit to the IAB or through remote data processing, which can also be arranged with the IAB. Requests for data access should be directed to FDZ IAB, since a contract with IAB for data use is required ([further information](https://fdz.iab.de/datenzugang/scientific-use-files/)).
 
-
 ## Documentation
 
-All documents such as methodological reports, questionnaires, and publications on the study can be found under [Documentation on the SOEP Studies](https://www.diw.de/en/diw_01.c.791582.en/documentation_of_the_soep_studies_-_all_survey_papers.html?soep_datensatz_id[]=696377). By using the filter “type of documentation”, you can narrow your search.
-
+All documents such as methodological reports, questionnaires, and publications on the study can be found under [Documentation on the SOEP Studies](https://www.diw.de/en/diw_01.c.791582.en/documentation_of_the_soep_studies_-_all_survey_papers.html?soep_datensatz_id%5B%5D=696377). By using the filter “type of documentation”, you can narrow your search.
