@@ -20,7 +20,7 @@ All samples from the IAB-BAMF-SOEP Survey of Refugees are included in the regula
 
 -   **Principal Investigators:** Herbert Brücker, Yuliya Kosyakova, Nina Rother, Sabine Zinn
 
-Publications using these data must cite the DOI (<doi:10.5684/soep.iab-bamf-soep-mig.2023>, or the DOI of another used edition) and also cite the following reference article:
+Publications using these data must cite the DOI ([doi:10.5684/soep.iab-bamf-soep-mig.2023](https://doi.org/10.5684/soep.iab-bamf-soep-mig.2023), or the DOI of another used edition) and also cite the following reference article:
 
 -   Brücker, H., Kosyakova, Y., Rother, N., Zinn, S., Liebau, E., Gider, W., Schwanhäuser, S., & Siegert, M. (accepted) Exploring Integration and Migration Dynamics: The Research Potentials of a Large-Scale Longitudinal Household Study of Refugees in Germany. European Sociological Review. <https://doi.org/10.1093/esr/jcaf032>.\
     A preprint of the paper is available here: <https://doi.org/10.17605/OSF.IO/CQ2KZ>.
